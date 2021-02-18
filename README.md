@@ -9,3 +9,8 @@ It is a self-contained and compact standard for an access token to securely tran
 For this project, we have used JWT. 
 For creating a JWT, we have different hash algorithms. 
 Here we have used HS256 algorithm.
+
+
+
+
+*** Screenshots attached ***
